@@ -1,0 +1,26 @@
+header>div#navigator {
+  background-color: black;
+  padding-bottom: 105px;
+  padding-top: 0%;
+
+}
+section {
+  padding-bottom: 25%;
+  padding-top:0px;
+}
+nav {
+  position: fixed;
+  text-decoration: white;
+}
+a {
+  color: whitesmoke;
+  text-decoration: none;
+  
+p {
+  color: green;
+}
+
+#links {
+  background-color: brown;
+}
+
